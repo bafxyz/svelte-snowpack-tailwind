@@ -14,8 +14,8 @@ You can start editing the page by modifying `svelte/*` files. The page auto-upda
 
 To learn more about Svelte, take a look at the following resources:
 
-- [Svelte Documentation](https://svelte.dev) - learn about Svelte features and API.
-- [Snowpack svelte example](https://www.snowpack.dev/tutorials/svelte)
+-   [Svelte Documentation](https://svelte.dev) - learn about Svelte features and API.
+-   [Snowpack svelte example](https://www.snowpack.dev/tutorials/svelte)
 
 ```bash
 npm test
